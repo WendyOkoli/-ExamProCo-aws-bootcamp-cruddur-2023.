@@ -21,4 +21,5 @@ I created my budget for the bootcamp for $5 because I'm concerned on spend
 ### Recreate a Logical Architecture Design
 ![Proofof my Logical Architecture Design](assets/Logical%20Architectural%20Diagram%20(2).png)
 
-## Homework Challenges
+[Link for Lucid Chart](https://lucid.app/lucidchart/f100ecc4-9800-4dae-af2b-c35d6b99813c/edit?viewport_loc=-1354%2C-208%2C3369%2C1298%2C0_0&invitationId=inv_11155dd9-c32e-48d0-8798-3cc8dcdfa3e8)
+
